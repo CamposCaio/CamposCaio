@@ -1,6 +1,6 @@
 ### Bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
-Olá, meu nome é Caio, entusiasmado por Desenvolvimento Web Full Stack e aspirante a DevOps.
+Olá, meu nome é Caio, entusiasta de Desenvolvimento Web Full Stack e aspirante a DevOps.
 
 Gosto muito de criar ferramentas modernas e inovadoras para resolver os problemas do nosso mundo.
 
