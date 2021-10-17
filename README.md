@@ -21,11 +21,7 @@ O que mais me fascina na programação é a liberdade que tenho para construir e
 
 <img src="https://github-readme-stats.vercel.app/api?username=camposcaio&show_icons=true&theme=tokyonight" alt="camposcaio"/>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camposcaio&layout=compact&langs_count=5&theme=tokyonight"/>
-</p>
--->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camposcaio&layout=compact&langs_count=5&theme=tokyonight"/>
 
 :boy: **Contato:**
 
